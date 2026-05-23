@@ -1,0 +1,45 @@
+# Build output
+*.o
+*.d
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.su
+*.i
+*.s
+*.a
+*.lib
+
+# Keil uVision
+*.uvguix.*
+*.scvd
+RTE/
+Listings/
+Objects/
+DebugConfig/
+EventRecorderStub.scvd
+
+# STM32CubeIDE
+.cproject
+.project
+.settings/
+Debug/
+Release/
+
+# Makefile build
+build/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# OS files
+.DS_Store
