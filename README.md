@@ -1,1 +1,1 @@
-# stm32_bms_mini
+STM32G431RBT6实现轮询式调度器
